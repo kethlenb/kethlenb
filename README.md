@@ -8,7 +8,7 @@
 <br/><br/>
 🤔 **I’m looking for help with:** Practical deep dives into Threat Modeling (STRIDE, OWASP) and advanced strategies for transitioning fully into the Information Security/GRC field.
 <br/><br/>
-💬 **Ask me about:** My career transition from Healthcare (Biomedicine) to IT, infrastructure management, ServiceNow, or the best tvshows/movies: Mr. Robot, Doctor Who, Star Trek and Star Wars!
+💬 **Ask me about:** My career transition from Healthcare (Biomedicine) to IT, Quantum Cryptography, or the best tvshows/movies: Mr. Robot, Doctor Who, Star Trek and Star Wars!
 <br/><br/>
 📫 **How to reach me:** Through my tech Instagram profile, [@sudo.upgrade.techgirl](https://instagram.com/sudo.upgrade.techgirl), connect with me on [LinkedIn](https://linkedin.com/in/kethlenbs)
 <br/><br/>
