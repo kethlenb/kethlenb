@@ -20,8 +20,8 @@
 ---
 
 **🏆 Courses & Affiliations**
-* **Cursos:** Microsoft AB-900 (Introdução à administração do Microsoft 365 e da IA)
-* **Afiliações e Comunidades:** ISACA Student Member | WOMCY CyberMaster | Alum of the WOMCY & OEA CICTE Cybersecurity Mentorship Program
+* **Courses:** OEA Cyber Challenge, Check Point Secure Academy, ITIL & COBIT. Microsoft AB-900 & AZ900.
+* **Affiliations e Communities:** ISACA Student Member | WOMCY CyberMaster & Volunteer | OEA CICTE Cybersecurity Mentorship Program
 
 ---
 
